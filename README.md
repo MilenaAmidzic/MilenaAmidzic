@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on projects involving biomedical datasets and machine learning models in Python.
 
-- 🌱 I’m currently learning more about machine learning, statistical modeling, and data analysis using Python libraries such as pandas, scikit-learn, and matplotlib.
-
 - 👯 I’m looking to collaborate on data science projects related to healthcare, biology, and real-world datasets.
 
 - 🤔 I’m looking for help with improving my machine learning workflows and learning best practices for building reproducible data science projects.
